@@ -3,7 +3,7 @@ In this notebook, we use the EMNIST data that is in mnist format The main task i
 
 	•Extract training data, prepare input data for training model
 	•Convert jpg file to mnist format
- 	•5 layers neural network with L2 regularization, visulize the training using tensor board
+ 	•CNN network with dropout, visulize the training using tensor board
  	•Restore the checkpoints to recoginze handwritten letters jpg files
 ![net graph](graph.png)
 
